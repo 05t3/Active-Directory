@@ -129,7 +129,7 @@ Once the server reboots, we need to do a couple of things:
 
 I made your work easier by writing a simple Powershell script that automates the process. 
 
-You can get the script [here](NOTES/LAB Setup/initial-setup.ps1).
+You can get the script [here](https://github.com/05t3/Active-Directory/tree/main/NOTES/LAB Setup/initial-setup.ps1).
 
 NB: **Be sure to execute the script with Admin Privileges**
 
