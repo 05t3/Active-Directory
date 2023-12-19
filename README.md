@@ -9,11 +9,11 @@ Hi there. I decided to create this repo tho document my journey diving into Acti
 
 I will focus on everything from:
 
-1. Basic & Theory
+1. Basic & Theory.
 2. Setting up a lab environment for learning.
 3. Installing and Configuring a Domain controller.
 4. Attacking a misconfigured environment.
-5. Tools
+5. Tools.
 6. Defending & Securing the environment.
 7. Best Practices.
 
